@@ -29,7 +29,7 @@ This assignment introduces you how to use **_Scale institutional knowledge using
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
-1. Scale institutional knowledge using Copilot Spaces: _REPO LINK 1_
+1. Scale institutional knowledge using Copilot Spaces: [_REPO LINK 1_](https://github.com/ayubkhankariev/skills-scale-institutional-knowledge-using-copilot-spaces-2)
 2. Build applications with GitHub Copilot agent mode: _REPO LINK 2_
 3. Idea to App with GitHub Spark:  _REPO LINK 3_
 
